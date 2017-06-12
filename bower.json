@@ -1,0 +1,29 @@
+{
+  "name": "creditbitcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/creditbit/creditbitcore",
+  "authors": [
+    "creditbit-DevTeam (<support@creditbit.org>)"
+  ],
+  "description": "Creditbit Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "creditbit",
+    "creditbitcore",
+    "rdd",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
